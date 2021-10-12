@@ -1,3 +1,24 @@
 h1 {
-  color: limegreen;
+  color: whitesmoke;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: peachpuff;
+}
+
+h3 {
+  color: beige;
+  font-style: bold;
+  font-style: italic;
+}
+
+p {
+  color: peachpuff;
+}
+
+body {
+  background-color: darkblue;
 }
