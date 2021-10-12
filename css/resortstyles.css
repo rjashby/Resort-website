@@ -1,24 +1,24 @@
 h1 {
-  color: whitesmoke;
+  color: darkred;
   text-align: center;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
-  color: peachpuff;
+  color: black;
 }
 
 h3 {
-  color: beige;
+  color: black;
   font-style: bold;
   font-style: italic;
 }
 
 p {
-  color: peachpuff;
+  color: firebrick;
 }
 
 body {
-  background-color: darkblue;
+  background-color:sandybrown;
 }
